@@ -1,1 +1,14 @@
-
+{
+  "list": [
+    {
+      "name": "tu",
+      "version": "1.0", // 插件版本
+      "section": "chat", // 插件分类
+      "maintainer": "Airp", // 插件维护者
+      "size": "1.0 kb", // 插件大小
+      "supported": true, // 是否仍在维护
+      "des_short": "土味情话", // 插件短描述
+      "des": "通过api获取内容" // 插件长描述
+    }
+  ]
+}
